@@ -65,6 +65,14 @@ module.exports = {
             },
         },
         {
+        resolve: `gatsby-theme-ghost-commento`,
+        options: {
+            // The url pointing to your self-hosted commento installation
+            // You can remove the option, if you use the commento.io managed service
+            url: `https://commento.do.hersecret.fi`,
+        },
+    },
+        {
             resolve: `gatsby-theme-ghost-dark-mode`,
             options: {
                 // Set to true if you want your theme to default to dark mode (default: false)
