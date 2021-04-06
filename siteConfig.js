@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://epic-hoover-329d9e.netlify.app`,
+    siteUrl: `https://blog.hersecret.fi`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
@@ -10,13 +10,13 @@ module.exports = {
     postsPerPage: 3,
 
     // This allows an alternative site title for meta data for pages.
-    siteTitleMeta: `Gatsby Starter Ghost CMS`,
+    siteTitleMeta: `HerSecret.fi blogi - muotia ja vinkkejä`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `Turn your Ghost blog into a flaring fast static site with Gatsby`,
+    siteDescriptionMeta: `HerSecret.fi - kun haluat erottua eduksesi. Blogista löydät uusimmat päivitykset ja vinkkejä pukeutumiseen.`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
-    shortTitle: `Jamify`,
+    shortTitle: `HerSecret.fi - kun haluat erottua eduksesi. Blogista löydät uusimmat päivitykset ja vinkkejä pukeutumiseen.`,
     siteIcon: `favicon.png`,
     backgroundColor: `#e9e9e9`,
     themeColor: `#15171A`,
